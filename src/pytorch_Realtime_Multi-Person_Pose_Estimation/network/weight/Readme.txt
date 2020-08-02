@@ -1,0 +1,1 @@
+##pose_model.pth 模型下载地址：https://drive.google.com/file/d/1DDBQsoZ94N4NRKxZbwyEXt7Tz8KqgS_w/view?usp=sharing
